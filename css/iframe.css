@@ -1,0 +1,22 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.6em;
+}
+
+.img {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.img img {
+    width: 300px;
+    display: inline;
+    padding-right: 20px;
+    float: left;
+}
+
+.info{
+    padding-bottom: 40px;
+}

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>/en/doctors/doctor1/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/doctors/doctor2/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/doctors/doctor3/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/doctors/doctor4/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/doctors/doctor5/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/services/acupuncture/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/services/chiropractics/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/services/consultation/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/services/cupping/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/services/massage/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/services/medicine/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/services/moxibustion/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/services/osteothapy/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/doctors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/services/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
