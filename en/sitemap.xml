@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/glnaturehealthcare/doctors/doctor1/</loc>
+    <loc>/doctors/doctor1/</loc>
   </url>
   
   <url>
-    <loc>/glnaturehealthcare/doctors/doctor2/</loc>
+    <loc>/doctors/doctor2/</loc>
   </url>
   
   <url>
-    <loc>/glnaturehealthcare/doctors/doctor3/</loc>
+    <loc>/doctors/doctor3/</loc>
   </url>
   
   <url>
-    <loc>/glnaturehealthcare/doctors/doctor4/</loc>
+    <loc>/doctors/doctor4/</loc>
   </url>
   
   <url>
-    <loc>/glnaturehealthcare/doctors/doctor5/</loc>
+    <loc>/doctors/doctor5/</loc>
   </url>
   
   <url>
-    <loc>/glnaturehealthcare/services/acupuncture/</loc>
+    <loc>/services/acupuncture/</loc>
   </url>
   
   <url>
-    <loc>/glnaturehealthcare/services/chiropractics/</loc>
+    <loc>/services/chiropractics/</loc>
   </url>
   
   <url>
-    <loc>/glnaturehealthcare/services/consultation/</loc>
+    <loc>/services/consultation/</loc>
   </url>
   
   <url>
-    <loc>/glnaturehealthcare/services/cupping/</loc>
+    <loc>/services/cupping/</loc>
   </url>
   
   <url>
-    <loc>/glnaturehealthcare/services/massage/</loc>
+    <loc>/services/massage/</loc>
   </url>
   
   <url>
-    <loc>/glnaturehealthcare/services/medicine/</loc>
+    <loc>/services/medicine/</loc>
   </url>
   
   <url>
-    <loc>/glnaturehealthcare/services/moxibustion/</loc>
+    <loc>/services/moxibustion/</loc>
   </url>
   
   <url>
-    <loc>/glnaturehealthcare/services/osteothapy/</loc>
+    <loc>/services/osteothapy/</loc>
   </url>
   
   <url>
-    <loc>/glnaturehealthcare/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/glnaturehealthcare/doctors/</loc>
+    <loc>/doctors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/glnaturehealthcare/</loc>
+    <loc>/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/glnaturehealthcare/services/</loc>
+    <loc>/services/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/glnaturehealthcare/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
