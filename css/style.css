@@ -2227,4 +2227,42 @@ nav.shift ul li a {
 	visibility: visible;
 	height: 100%;
   }
-  
+  li.bookMenu{
+	display: none;
+}
+
+  @media (max-width: 400px) {
+
+	.top-area{
+		display: none;
+	}
+
+	.navbar-brand>img {
+		height: 60px;
+		margin-left: -12px;
+	}
+
+	.navbar-brand.reduce>img {
+		display: block;
+		height: 60px;
+		margin-top: 10px;
+		margin-left: -12px;
+	}
+
+	.langselector.reduce{
+		margin-left: 90px !important;
+    margin-top: 14px !important;
+	}
+
+	li.bookMenu{
+		display: inline-block;
+		line-height: 50px;
+		padding-top: 10px;
+		padding-left: 15px;
+	}
+  }
+
+  .navbar-custom.top-nav-collapse .nav li a:hover, .navbar-custom.top-nav-collapse .nav li a:focus, .navbar-custom.top-nav-collapse .nav li.active
+  {
+	background-color: #adf7c3 !important;
+  }

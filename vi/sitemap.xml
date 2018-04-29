@@ -18,6 +18,10 @@
   </url>
   
   <url>
+    <loc>/glnaturehealthcare/vi/page/gl/</loc>
+  </url>
+  
+  <url>
     <loc>/glnaturehealthcare/vi/services/acupuncture/</loc>
   </url>
   
@@ -56,6 +60,11 @@
   
   <url>
     <loc>/glnaturehealthcare/vi/doctors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/glnaturehealthcare/vi/page/</loc>
     <priority>0</priority>
   </url>
   
