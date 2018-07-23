@@ -1,49 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Doctors on GL Natural Healthcare - Traditional Chinese Herbal Medicine &amp; Fertility Acupuncture Melbourne</title>
-    <link>/glnaturalhealthcare/en/doctors/</link>
-    <description>Recent content in Doctors on GL Natural Healthcare - Traditional Chinese Herbal Medicine &amp; Fertility Acupuncture Melbourne</description>
+    <title>Doctors on GL Natural Healthcare - Traditional Chinese Herbal Healthcare &amp; Fertility Acupuncture Melbourne Australia</title>
+    <link>/en/doctors/</link>
+    <description>Recent content in Doctors on GL Natural Healthcare - Traditional Chinese Herbal Healthcare &amp; Fertility Acupuncture Melbourne Australia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/glnaturalhealthcare/en/doctors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/en/doctors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/glnaturalhealthcare/en/doctors/doctor1/</link>
+      <link>/en/doctors/doctor1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/glnaturalhealthcare/en/doctors/doctor1/</guid>
+      <guid>/en/doctors/doctor1/</guid>
       <description>Speciality: Acupuncture and Chinese Medicine Qualifications: BHlthSc (Hons-ChinMed), RCMP, PhD Dr George Lenon is a founder of GL Natural Healthcare and he is qualified practitioner both in Australia and overseas. He began his Traditional Chinese Medicine journey many years ago. After graduating from Chinese medicine at Victoria University, Dr. George Lenon then went on to earn his PhD at RMIT University with his internationally recognized research in allergies (ie. Hayfever) and weight loss.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/glnaturalhealthcare/en/doctors/doctor2/</link>
+      <link>/en/doctors/doctor3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/glnaturalhealthcare/en/doctors/doctor2/</guid>
-      <description>Speciality: Chinese Medicine Qualifications: Bachelors in Chinese Medicine &amp;amp; Human Biology, RCMP Dr Conan Cole cites his early memories of flicking through his mothers nursing textbooks as the beginnings of his keen interest in biological sciences and the workings of the human body. This along with extensive world travel, interest in other cultures, empathy for others and many years working with his hands. Eventually combined to his undertaking the lifelong learning commitment of being a caregiver.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/glnaturalhealthcare/en/doctors/doctor3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/glnaturalhealthcare/en/doctors/doctor3/</guid>
+      <guid>/en/doctors/doctor3/</guid>
       <description>Speciality: Acupuncture and Chinese Herbal Medicine Qualifications: BHlthSc &amp;amp; BAppSc (ChinMed) Dr SHIQI (Rose) LUO is a responsible, enthusiastic and professional registered Chinese medicine practitioner who aims to provide the best quality of care to every patient. Rose graduated from RMIT University and obtained a double degree in Health sciences and Chinese Medicine with Distinction. She is currently doing her Ph.D. degree at RMIT University. She is bringing her experience from her internship in one of the most famous Chinese medicine hospitals in Nanjing China and received ‘Jasmine scholarship’ that offered from Jiangsu Province as a result of her outstanding performance during the internship.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/glnaturalhealthcare/en/doctors/doctor4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/glnaturalhealthcare/en/doctors/doctor4/</guid>
-      <description>Speciality: Acupuncture and Chinese Herbal Medicine Qualifications: BHlthSc &amp;amp; BAppSc (ChinMed) Dr. Chung is registered Chinese Medicine Practitioner with the Australian Health Practitioner Regulation Agency. Being a daughter of a TCM practitioner, her enthusiasm with TCM developed very early, as she was helping in her father’s clinic during her summer holidays. By witnessing how her dad helps with different types of patients with various conditions, she was determined to follow her dad’s footpath for helping patients with her extensive knowledge in TCM.</description>
     </item>
     
   </channel>

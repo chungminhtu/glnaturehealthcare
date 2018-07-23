@@ -2182,6 +2182,7 @@ img.ServiceImg {
 
 .map-section{
 	padding-bottom: 200px;
+	min-height: 500px !important;
 }
 
 .footerimg{

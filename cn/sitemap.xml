@@ -2,84 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/glnaturalhealthcare/cn/doctors/doctor1/</loc>
+    <loc>/cn/doctors/doctor1/</loc>
   </url>
   
   <url>
-    <loc>/glnaturalhealthcare/cn/doctors/doctor2/</loc>
+    <loc>/cn/doctors/doctor3/</loc>
   </url>
   
   <url>
-    <loc>/glnaturalhealthcare/cn/doctors/doctor3/</loc>
+    <loc>/cn/page/gl/</loc>
   </url>
   
   <url>
-    <loc>/glnaturalhealthcare/cn/doctors/doctor4/</loc>
+    <loc>/cn/services/acupuncture/</loc>
   </url>
   
   <url>
-    <loc>/glnaturalhealthcare/cn/page/gl/</loc>
+    <loc>/cn/services/chiropractics/</loc>
   </url>
   
   <url>
-    <loc>/glnaturalhealthcare/cn/services/acupuncture/</loc>
+    <loc>/cn/services/consultation/</loc>
   </url>
   
   <url>
-    <loc>/glnaturalhealthcare/cn/services/chiropractics/</loc>
+    <loc>/cn/services/cupping/</loc>
   </url>
   
   <url>
-    <loc>/glnaturalhealthcare/cn/services/consultation/</loc>
+    <loc>/cn/services/massage/</loc>
   </url>
   
   <url>
-    <loc>/glnaturalhealthcare/cn/services/cupping/</loc>
+    <loc>/cn/services/medicine/</loc>
   </url>
   
   <url>
-    <loc>/glnaturalhealthcare/cn/services/massage/</loc>
+    <loc>/cn/services/moxibustion/</loc>
   </url>
   
   <url>
-    <loc>/glnaturalhealthcare/cn/services/medicine/</loc>
+    <loc>/cn/services/osteothapy/</loc>
   </url>
   
   <url>
-    <loc>/glnaturalhealthcare/cn/services/moxibustion/</loc>
-  </url>
-  
-  <url>
-    <loc>/glnaturalhealthcare/cn/services/osteothapy/</loc>
-  </url>
-  
-  <url>
-    <loc>/glnaturalhealthcare/cn/categories/</loc>
+    <loc>/cn/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/glnaturalhealthcare/cn/doctors/</loc>
+    <loc>/cn/doctors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/glnaturalhealthcare/cn/</loc>
+    <loc>/cn/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/glnaturalhealthcare/cn/page/</loc>
+    <loc>/cn/page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/glnaturalhealthcare/cn/services/</loc>
+    <loc>/cn/services/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/glnaturalhealthcare/cn/tags/</loc>
+    <loc>/cn/tags/</loc>
     <priority>0</priority>
   </url>
   
