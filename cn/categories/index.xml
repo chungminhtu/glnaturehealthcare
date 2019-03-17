@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on GL Natural Healthcare - Traditional Chinese Herbal Healthcare &amp; Fertility Acupuncture Melbourne Australia</title>
-    <link>/cn/categories/</link>
+    <link>/glnaturehealthcare/cn/categories/</link>
     <description>Recent content in Categories on GL Natural Healthcare - Traditional Chinese Herbal Healthcare &amp; Fertility Acupuncture Melbourne Australia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/cn/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/glnaturehealthcare/cn/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
